@@ -1,3 +1,7 @@
+Nani Demo: https://youtu.be/fxucvps7ZYE
+Executable file drive link: https://drive.google.com/drive/folders/1w6H-3Hr17K_MD1g78-fitSWtzmGoU2qW?usp=sharing
+
+
 #Modules to be installed and imported
 
 #import google.generativeai as genai
@@ -22,3 +26,4 @@
 #import time
 #from pygame import mixer
 #import psutil
+
